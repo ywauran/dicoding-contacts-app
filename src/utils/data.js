@@ -18,6 +18,12 @@ const getData = () => {
             tag: 'rfajri27',
             imageUrl: '/images/rfajri27.jpeg',
           },
+          {
+            id: 4, 
+            name: 'Yohanes Harke Wauran',
+            tag: 'harkewauran',
+            imageUrl:'/images/harke.jpg'
+          }
     ]
 }
 
